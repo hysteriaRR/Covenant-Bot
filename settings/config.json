@@ -1,0 +1,16 @@
+{
+  "prefix": "!",
+  "groupID": 16988151,
+  "bot_token": "PLACEHOLDER_BOT_TOKEN",
+  "rblxUserName": "SEELE_AutoRank",
+  "rblxPassword": "password_placeholder",
+  "rblxCookie": "PLACEHOLDER_RBLX_COOKIE",
+  "welcomeMessage": "Welcome to SEELE!",
+  "officerRole": "SEELE Council",
+  "maxXP": 10000,
+  "dailyXPCap": 0,
+  "xpAuditLogChannelID": "PLACEHOLDER_XP_AUDIT_LOG_CHANNEL_ID",
+  "mainChatChannelID": "PLACEHOLDER_MAIN_CHAT_CHANNEL_ID",
+  "fireBaseURL": "https://seele-xp.firebaseio.com/",
+  "serviceAccountPath": "./settings/serviceAccountKey.json"
+}

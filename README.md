@@ -86,7 +86,8 @@ Firebase handles all XP data and audit logs. Roblox integration uses both `noblo
    ```
 
 4. **Set up Firebase**
-   - Download your Firebase service account JSON from Firebase Console → Project Settings → Service Accounts
+   - Download your Firebase service account JSON from Firebase Console → Project Settings → Service Accounts - Generate new private key." This will download a JSON file with the credentials. 
+
    - Save as `settings/serviceAccountKey.json`
    - Ensure the service account has Realtime Database read/write permissions
 
